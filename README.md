@@ -23,4 +23,10 @@ export default defineConfig({
  console.log(max)
 ```
 
+## 思考
+
+1. 如何导入解析commonjs
+- commonjs to esm ?
+- 创建沙箱环境？
+
 
